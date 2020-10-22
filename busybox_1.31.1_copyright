@@ -1,0 +1,15 @@
+Package: busybox
+Version: 1.31.1
+Source: https://busybox.net/downloads/busybox-1.31.1.tar.bz2
+
+Files: semc/*
+Copyright: 2020, Bobbbay Bobbayan, <abatterysingle@gmail.com>
+License: GPLv2-only
+
+Files: *
+Copyright: Busybox Contributors
+License: GPLv2-only
+
+License: GPLv2-only
+ <GPL notice>
+ <GPL full text or common-licenses-like pointer>
