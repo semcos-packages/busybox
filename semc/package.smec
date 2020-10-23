@@ -9,7 +9,7 @@ metadata:
 
 build:
  - type: "source"
- - version: "0.0.3a"
+ - version: "1.31.1"
  - steps:
   - step: "./configure"
   - step: "make"
