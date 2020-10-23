@@ -4,7 +4,7 @@ metadata:
  - description: "BusyBox is a software suite that provides several Unix utilities in a single executable file. It runs in a variety of POSIX environments such as Linux, Android, and FreeBSD, although many of the tools it provides are designed to work with interfaces provided by the Linux kernel."
  - source: "https://github.com/semcos-packages/busybox"
  - source-git: "false"
- - var: "DESTDIR"
+ - vars: "DESTDIR"
  - build-depends-on: "make"
 
 build:
